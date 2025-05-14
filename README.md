@@ -86,7 +86,7 @@ REST().put(Routes.applicationCommands(CLIENT_ID), {...})
 
 ## 🔗 Liens de démonstration et de test
 
-* 💬 Serveur Discord de test : [https://discord.gg/TON-LIEN](https://discord.gg/3zsCCGzuDr)
+* 💬 Serveur Discord de test : [https://discord.gg/3zsCCGzuDr](https://discord.gg/3zsCCGzuDr)
 * 🎥 Vidéo de démonstration : [https://youtu.be/VIDEO-DEMO](https://youtu.be/VIDEO-DEMO)
 
 ---
