@@ -64,7 +64,8 @@ npm install discord.js distube @distube/yt-dlp ffmpeg-static dotenv @discordjs/o
 ```
 
 3. **Installer FFmpeg**
-   Télécharger (si vous n'avez pas le fichier) FFmpeg depuis [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/) (version release), puis :
+   Télécharger (si vous n'avez pas le fichier) FFmpeg depuis [https://www.gyan.dev/ffmpeg/builds/](https://www.gyan.dev/ffmpeg/builds/) dans release build>ffmpeg-release-full.7z    .ver .sha256.
+(version release), puis :
 
 * Extraire dans le dossier `ffmpeg/` avec le chemin `ffmpeg/bin/ffmpeg.exe`
 
