@@ -57,8 +57,10 @@ cd discord-music-bot
 
 2. **Installer les dépendances**
 
+
 ```bash
-npm install
+npm install discord.js distube @distube/yt-dlp ffmpeg-static dotenv @discordjs/opus
+
 ```
 
 3. **Installer FFmpeg**
