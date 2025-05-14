@@ -75,6 +75,22 @@ npm install discord.js distube @distube/yt-dlp ffmpeg-static dotenv @discordjs/o
 node index.js
 ```
 
+Si vous rencontrez toujours une erreur avec ffmpeg Ajoutez le chemin bin à votre variable d'environnement PATH cela permet à ffmpeg d'être accessible globalement sur votre système.
+ 
+Étapes pour ajouter au PATH : 
+1.	Ouvrez les Paramètres système avancés :
+ Appuyez sur Win + S, tapez "Variables d'environnement", et ouvrez-le. 
+
+2.	Ajoutez le chemin : 
+Dans la section Variables système, trouvez la variable Path et cliquez sur Modifier. Ajoutez le chemin suivant :
+
+C:\votreuser\userutiliser\la-ou-les-fichier-du-bot-sont\discord_bot2\ffmpeg\bin
+Enregistrez et redémarrez votre terminal. 
+3.	Ensuite, testez à nouveau dans votre terminal avec :
+
+ffmpeg -version
+
+
 ---
 
 ## 🧪 Déploiement des commandes slash
@@ -90,7 +106,7 @@ REST().put(Routes.applicationCommands(CLIENT_ID), {...})
 ## 🔗 Liens de démonstration et de test
 
 * 💬 Serveur Discord de test : [https://discord.gg/3zsCCGzuDr](https://discord.gg/3zsCCGzuDr)
-* 🎥 Vidéo de démonstration : [https://youtu.be/VIDEO-DEMO](https://youtu.be/VIDEO-DEMO)
+* 🎥 Vidéo de démonstration : [https://youtu.be/ZUXFt62Xd5s](https://youtu.be/ZUXFt62Xd5s)
 
 ---
 
