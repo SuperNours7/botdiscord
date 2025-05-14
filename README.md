@@ -51,7 +51,7 @@ Chaque bouton agit immédiatement sans avoir à taper une commande.
 1. **Cloner le projet**
 
 ```bash
-git clone [https://github.com/votre-utilisateur/discord-music-bot.git](https://github.com/SuperNours7/botdiscord)
+git clone https://github.com/SuperNours7/botdiscord
 cd discord-music-bot
 ```
 
